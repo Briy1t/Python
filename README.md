@@ -13,7 +13,7 @@ Los archivos reflejan diferentes unidades y fechas de trabajo, organizados por t
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este proyecto representa una etapa clave en mi aprendizaje técnico.  
 Actualmente estoy enfocada en administración de sistemas Linux, scripting en Bash y herramientas como Docker,  
@@ -21,7 +21,7 @@ pero mantengo este repositorio como parte de mi evolución y exploración en pro
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 - Archivos `.py` con ejercicios prácticos  
 - Organización por tema y fecha  
@@ -29,12 +29,12 @@ pero mantengo este repositorio como parte de mi evolución y exploración en pro
 
 ---
 
-## 📜 Licencia
+##  Licencia
 
 Este proyecto es de uso educativo y personal.
 
 ---
 
-## 👩‍💻 Autor
+##  Autor
 
 Brígitt — estudiante de administración de sistemas, scripting y cloud computing.
