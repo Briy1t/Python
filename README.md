@@ -37,4 +37,4 @@ Este proyecto es de uso educativo y personal.
 
 ##  Autor
 
-Brígitt — estudiante de administración de sistemas, scripting y cloud computing.
+Briyit — estudiante de administración de sistemas, scripting y cloud computing.
