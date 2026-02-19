@@ -1,3 +1,29 @@
+# Ejercicios de práctica en Python y Java
+
+Este repositorio reúne ejercicios realizados durante mi aprendizaje de programación.  
+Incluye prácticas en dos lenguajes: Python y Java.  
+Cada lenguaje mantiene su propio espacio y su propio README.
+
+## Estructura del repositorio
+
+- `Archivos sueltos en Python`: ejercicios básicos, lógica, manejo de archivos y pruebas personales.
+- `Carpeta `java/``: contiene ejercicios de Java organizados según el material de estudio utilizado.  
+  Dentro de esta carpeta se encuentra un README específico para esa parte del aprendizaje.
+
+## Objetivo
+
+Conservar en un solo lugar mis ejercicios iniciales de programación, sin una estructura estricta, ya que forman parte de mi proceso de aprendizaje y práctica.
+
+## Contenido
+
+- `Ejercicios de Python`: bucles, condicionales, manejo de archivos, funciones y scripts de práctica.
+- E`jercicios de Java`: variables, control de flujo, clases, objetos y otros conceptos fundamentales.
+
+## Nota
+
+Este repositorio no busca ser un proyecto estructurado, sino un archivo personal de aprendizaje donde guardo mis prácticas en ambos lenguajes.
+
+
 # Ejercicios de práctica en Python
 
 Este repositorio reúne ejercicios y pequeños proyectos que realicé durante mi etapa inicial de aprendizaje en Python.  
@@ -36,6 +62,11 @@ Aunque hoy estoy enfocada en:
 este repositorio representa una etapa importante de mi aprendizaje y mi interés por la lógica y la programación.
 
 No está perfecto, pero es parte de mi camino.
+
+
+## Autor
+
+Briyit — interesada en administración, tecnología, Linux y cloud.
 
 ## Autor
 
