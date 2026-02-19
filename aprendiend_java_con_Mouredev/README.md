@@ -41,5 +41,4 @@ Puedes consultarlo libremente como referencia de aprendizaje.
 
 ##  Autor
 
-Briyit — estudiante de administración de sistemas, scripting y cloud computing.
-
+Briyit —
